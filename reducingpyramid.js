@@ -11,5 +11,5 @@ function reducePyramid(base) {
 
         newBase[i] = sum;
     }
-    return reducePyramid(newBase)
+    return reducePyramid(newBase) 
 }
